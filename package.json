@@ -1,0 +1,16 @@
+{
+  "name": "@zooshme/rescript-unocss",
+  "version": "0.0.1",
+  "description": "Rescript bindings for unocss",
+  "type": "module",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "res:build": "rescript build",
+    "res:clean": "rescript clean",
+    "res:dev": "rescript build -w"
+  },
+  "dependencies": {
+    "@rescript/core": "^1.5.2",
+    "rescript": "^11.1.3"
+  }
+}
