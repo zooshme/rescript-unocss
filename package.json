@@ -1,6 +1,6 @@
 {
   "name": "@zooshme/rescript-unocss",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Rescript bindings for unocss",
   "type": "module",
   "scripts": {
